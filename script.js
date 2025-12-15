@@ -1,3 +1,4 @@
+// Expense Tracker Javascript logic
 let total = 0;
 
 function addExpense() {
@@ -20,3 +21,4 @@ function addExpense() {
   document.getElementById("expenseName").value = "";
   document.getElementById("expenseAmount").value = "";
 }
+
