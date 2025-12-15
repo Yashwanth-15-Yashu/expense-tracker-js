@@ -1,2 +1,22 @@
-# expense-tracker-js
-A simple expense tracker built using HTML, CSS and JavaScript to practice DOM manipulation and basic frontend logic.
+# Expense Tracker
+
+A simple frontend expense tracker application built using HTML, CSS, and JavaScript.
+
+## Features
+- Add expense name and amount
+- Display expenses dynamically
+- Calculate total expense automatically
+- Simple and clean UI
+
+## Concepts Used
+- DOM manipulation
+- Event handling
+- JavaScript functions
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Yashwanth Gowda HK
